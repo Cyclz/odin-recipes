@@ -38,3 +38,13 @@ body {
 img {
     width: 25vw
 }
+.home {
+    display: flex;
+    justify-content: center;
+}
+.home div {
+    width: 25vw;
+}
+footer {
+    align-self: flex-end;
+}
